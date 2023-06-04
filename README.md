@@ -18,6 +18,8 @@
  <img src="screenshoot/preview-mobile-6.jpg" style=" max-width:300px ; height:400px; margin: 0 auto;" >
  <img src="screenshoot/preview-mobile-7.jpg" style=" max-width:300px ; height:400px; margin: 0 auto;" >
  <img src="screenshoot/preview-mobile-8.jpg" style=" max-width:300px ; height:400px; margin: 0 auto;" >
+ 
+ Download .apk : [Download](https://github.com/asyarbre/uas-pemvis-kelompok/blob/main/apk/app-debug.apk)
 
 
 ## Preview Web
